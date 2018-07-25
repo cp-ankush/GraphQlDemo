@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Ankush Sharma",
+      "email": "ankush@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "3",
+      "name": "Steve Smith",
+      "email": "steve@gmail.com",
+      "age": 22
+    },
+    {
+      "id": "4",
+      "name": "Charlie Puth",
+      "email": "keith@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "5",
+      "name": "Tom Jones",
+      "email": "tom@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "6",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "age": 32
+    },
+    {
+      "name": "San White",
+      "email": "san@gmail.com",
+      "age": 37,
+      "id": "DKrBkqG"
+    }
+  ]
+}
